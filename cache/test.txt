@@ -1,0 +1,135 @@
+<br />
+<b>Notice</b>:  Undefined index: 254 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>20</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 255 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>26</b><br />
+<br />
+<b>Notice</b>:  Undefined index: 254 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 253 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 252 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 251 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 250 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 249 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 248 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 247 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 246 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 245 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 244 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 243 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 242 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 241 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 240 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 239 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 238 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 237 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 236 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 235 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 234 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 233 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 232 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 231 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 230 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 229 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 228 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 227 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 226 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 225 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 224 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 223 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 222 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 221 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 220 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 219 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 218 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 217 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 216 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 215 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 214 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 213 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 212 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 211 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 210 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 209 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 208 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 207 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 206 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 205 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 204 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 203 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 202 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 201 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 200 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 199 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 198 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 197 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>36</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 253 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>73</b><br />
+<br />
+<b>Notice</b>:  Undefined offset: 253 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\slide-to.php</b> on line <b>74</b><br />
+<br />
+<b>Notice</b>:  Undefined index: 254 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\inc.headlines-slide.php</b> on line <b>12</b><br />
+<br />
+<b>Notice</b>:  Undefined index: 254 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\inc.headlines-slide.php</b> on line <b>13</b><br />
+<br />
+<b>Notice</b>:  Undefined index: 1 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\inc.headlines-slide.php</b> on line <b>15</b><br />
+<br />
+<b>Notice</b>:  Undefined index: 254 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\inc.breadcrumbs.php</b> on line <b>3</b><br />
+<br />
+<b>Notice</b>:  Undefined index: 254 in <b>H:\Root\kundenprojekte_02\xampp\htdocs\brmedia_praesentation_05\inc.breadcrumbs.php</b> on line <b>6</b><br />
+{"weiter":"keine-weitere-seite","echo":"<div class=slide id=254 right=noway left=253 up=noway down=noway><table><tr><td colspan=2><h1><\/h1><\/td><\/tr><tr><td class='emerged'><\/td><\/tr><\/table><\/div>","breadcrumbs":"<span class=slideto href=# slideto=254><\/span>","right":"noway","left":253,"up":"noway","down":"noway","headline":"","debug":"254"}
